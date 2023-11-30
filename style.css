@@ -1,7 +1,11 @@
+header{
+    background-color: black;
+    color: white;
+}
 
 body{
     background-color:aquamarine
-    color:black;
+    color: black
 }
 
 h1{    
@@ -17,5 +21,6 @@ ul {
 }
 
 footer{
-
+background-color: black;
+color: white;
 }
